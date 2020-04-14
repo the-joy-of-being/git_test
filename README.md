@@ -1,2 +1,2 @@
 # git_test
-There should be something here.
+This is my first git project.
